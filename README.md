@@ -58,9 +58,9 @@ This project demonstrates end-to-end data analysis in **Microsoft Excel**. It in
 ---
 
 ## 📂 Project Structure
-📁 Vrinda-Sales-Report-Excel/
+```📁 Vrinda-Sales-Report-Excel/
 │
-├── Vrinda_Sales_Data.xlsx               # Contains raw and cleaned sales data
-├── Vrinda_Sales_Dashboard.xlsx          # Interactive Excel dashboard with slicers and visuals
-├── README.md                            # Project documentation and insights
+├── Vrinda_Sales_Data.xlsx         # Contains raw and cleaned sales data
+├── Vrinda_Sales_Dashboard.xlsx    # Interactive Excel dashboard with slicers and visuals
+└── README.md  ```                    # Project documentation and insights
 
